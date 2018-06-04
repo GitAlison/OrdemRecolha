@@ -1,0 +1,17 @@
+body{
+    background-color: darkorange;
+    padding-top: 15px;
+}
+#logo{
+    float: right;
+}
+.form-control{
+    
+    background-color: rgb(233, 230, 227);
+    color:black
+}
+.form-control input{
+    font-weight: bold;
+    background-color: white;
+    text-transform: uppercase;
+}
